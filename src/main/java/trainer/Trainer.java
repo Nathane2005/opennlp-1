@@ -28,7 +28,7 @@ public class Trainer {
         TokenNameFinderModel model = null;
         try {
             model = NameFinderME.train("fr", property, trainingSampleStream,
-                    new TrainingParameters(), new TokenNameFinderFactory());
+                    TrainingParameters.defaultParams(), new TokenNameFinderFactory());
         } finally {
             trainingSampleStream.close();
         }

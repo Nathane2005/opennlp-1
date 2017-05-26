@@ -1,17 +1,23 @@
-Je voudrais des <START:color> chaussures <END> rouges
-Je veux un <START:color> t-shirt <END> rose
-Auriez-vous un <START:color> t-shirt <END> bleu
-<START:color> Chaussettes <END> blanches
-File moi des <START:color> chaussettes <END> noires
-Mes <START:color> chaussettes <END> sont elles sêches
-Mon <START:color> pantalon <END> est décousu
-Je ne trouve plus mon <START:color> vélo <END>
-Le <START:color> VTT <END> de mon grand-père est neuf
-J'aimerais vraiment avoir une <START:color> planche de surf <END>
-Auriez-vous des <START:color> serviettes de bain <END>
-Les <START:color> croquettes <END> de mon chien sont périmées
-J'ai perdu ma <START:color> veste <END> de football
-Je voudrais comprendre pourquoi ma soeur a un <START:color> sac <END> si grand
-Mon <START:color> maillot de bain <END> est trop petit
-J'ai du changer de <START:color> combinaison de ski <END> pour les vacances
-Mon <START:color> vélo de route <END> a déraillé
+Je voudrais des <START:product> chaussures <END> rouges
+Je veux un <START:product> t-shirt <END> rose
+Auriez-vous un <START:product> t-shirt <END> bleu
+<START:product> Chaussettes <END> blanches
+File moi des <START:product> chaussettes <END> noires
+Mes <START:product> chaussettes <END> sont elles sêches
+Mon <START:product> pantalon <END> est décousu
+Je ne trouve plus mon <START:product> vélo <END>
+Le <START:product> VTT <END> de mon grand-père est neuf
+J'aimerais vraiment avoir une <START:product> planche de surf <END>
+Auriez-vous des <START:product> serviettes de bain <END>
+J'ai perdu ma <START:product> veste de football <END> verte
+Je voudrais comprendre pourquoi ma soeur a un <START:product> sac <END> si grand
+Mon <START:product> maillot de bain <END> est trop petit
+J'ai du changer de <START:product> combinaison de ski <END> pour les vacances
+Mon <START:product> vélo de route <END> a déraillé
+J'aimerais une <START:product> veste <END> rouge
+Mon <START:product> velo <END> vert est au top
+J'aimerais une <START:product> serviette de bain <END> jaune
+Mon <START:product> kimono <END> gris est sale
+Mon <START:product> short de foot <END> bleu est beau
+Je voudrais un <START:product> short de foot <END> bleu
+Ma <START:product> veste <END> est blanche
